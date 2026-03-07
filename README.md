@@ -36,5 +36,5 @@ Utilized **sqlmap** to automate Boolean-based Blind SQL Injection
 Injected payloads directly into the Session Cookie (`PHPSESSID`) to bypass GET/POST parameter restrictions.
 Successfully enumerated databases, tables, and columns, ultimately extracting and cracking MD5 password hashes.
 
-## 📝 Disclaimer
+## Disclaimer
 All activities documented in this repository were performed on a locally hosted, private network owned by me. This environment was strictly built for educational purposes, defensive analysis, and ethical hacking practice.
